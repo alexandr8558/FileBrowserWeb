@@ -1,0 +1,25 @@
+﻿body {
+    background-color: #f0f0f0 !important;
+}
+
+.main {
+    margin : 20px;
+}
+
+.bold-title {
+    font-weight: bold;
+}
+
+.header-row {
+    background-color: #ccc;
+    color: #f9f9f9;
+}
+
+.panel
+{
+    background-color : #f0f0f0 !important;    
+}
+
+.panel-body{
+    border : solid 1px #ccc;
+}

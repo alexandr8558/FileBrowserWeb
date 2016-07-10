@@ -1,0 +1,82 @@
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\csc.exe
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\vbc.exe
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\VBCSCompiler.exe
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\FileBrowserWeb.dll.config
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\FileBrowserWeb.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\FileBrowserWeb.pdb
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\Newtonsoft.Json.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\System.Net.Http.Formatting.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.WebHost.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\Newtonsoft.Json.xml
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\System.Net.Http.Formatting.xml
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.xml
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.WebHost.xml
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\obj\Debug\FileBrowserWeb.dll
+D:\Sources\Education\FileBrowserWeb\FileBrowserWeb\obj\Debug\FileBrowserWeb.pdb
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\obj\Debug\FileBrowserWeb.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\obj\Debug\FileBrowserWeb.pdb
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\csc.exe
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\System.Collections.Immutable.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\System.Reflection.Metadata.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\vbc.exe
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\VBCSCompiler.exe
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\VBCSCompiler.exe.config
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\FileBrowserWeb.dll.config
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\FileBrowserWeb.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\FileBrowserWeb.pdb
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\Newtonsoft.Json.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Net.Http.Formatting.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.WebHost.dll
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\Newtonsoft.Json.xml
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Net.Http.Formatting.xml
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.xml
+e:\Source Code\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.WebHost.xml
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\csc.exe
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\vbc.exe
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\VBCSCompiler.exe
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\FileBrowserWeb.dll.config
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\FileBrowserWeb.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\FileBrowserWeb.pdb
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\Newtonsoft.Json.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Net.Http.Formatting.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.WebHost.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\Newtonsoft.Json.xml
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Net.Http.Formatting.xml
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.xml
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\bin\System.Web.Http.WebHost.xml
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\obj\Debug\FileBrowserWeb.dll
+D:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\obj\Debug\FileBrowserWeb.pdb
+d:\Sources\Education\Empeek\FileBrowserWeb\FileBrowserWeb\obj\Debug\FileBrowserWeb.csprojResolveAssemblyReference.cache

@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html ng-app="fileSystemApp">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="CSS/application.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/bootstrap.css" />
+</head>
+<body>
+    <div class="main" ng-cloak ng-controller="FileBrowserController">
+        <div ng-show="isLoading">Loading ...</div>
+        <div ng-show="!isLoading">
+            <div>
+                <div ng-show="FileSystem.Statistic.HasError" class="alert alert-danger" role="alert">{{FileSystem.Statistic.ErrorMessage}}</div>
+                <table class="table table-bordered">
+                    <tr class="header-row">
+                        <td>Less 10Mb</td>
+                        <td>10Mb-50Mb</td>
+                        <td>More 100Mb</td>
+                    </tr>
+                    <tr>
+                        <td>{{FileSystem.Statistic.Less10Count}}</td>
+                        <td>{{FileSystem.Statistic.More10Less50Count}}</td>
+                        <td>{{FileSystem.Statistic.More100Count}}</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="panel">
+                <div ng-show="FileSystem.HasError" class="alert alert-danger" role="alert">{{FileSystem.ErrorMessage}}</div>
+                <div class="panel-heading">
+                    <span class="bold-title">Current path: </span><span>{{FileSystem.CurrentPath}}</span>
+                </div>
+                <div class="panel-body">
+                    <div ng-repeat="item in FileSystem.Items">
+                        <span style="cursor:pointer;text-decoration:underline;color:#0066AA;" ng-click="LoadItemInfo(item)">{{item.Name}}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="JS/lib/angular.min.js"></script>
+    <script src="JS/lib/angular-resource.min.js"></script>
+    <script src="JS/lib/angular-route.min.js"></script>
+    <script src="JS/fileSystemApp.js"></script>
+    <script src="JS/fileBrowserController.js"></script>
+</body>
+</html>
